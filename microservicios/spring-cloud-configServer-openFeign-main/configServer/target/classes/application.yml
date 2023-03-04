@@ -1,0 +1,15 @@
+server:
+  port: ${PORT:8888}
+
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/vaninagodoydh/spring-cloud-configServer-openFeign
+          default-label: main
+          force-pull: true
+          search-paths: service-configuration
+
