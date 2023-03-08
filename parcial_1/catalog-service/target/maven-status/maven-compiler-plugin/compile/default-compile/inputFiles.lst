@@ -1,0 +1,7 @@
+/home/javier/Desarrollo/dh-especializacion-B1/parcial_1/catalog-service/src/main/java/com/dh/catalogservice/CatalogServiceApplication.java
+/home/javier/Desarrollo/dh-especializacion-B1/parcial_1/catalog-service/src/main/java/com/dh/catalogservice/api/service/ICatalogService.java
+/home/javier/Desarrollo/dh-especializacion-B1/parcial_1/catalog-service/src/main/java/com/dh/catalogservice/api/service/CatalogService.java
+/home/javier/Desarrollo/dh-especializacion-B1/parcial_1/catalog-service/src/main/java/com/dh/catalogservice/api/controller/TestController.java
+/home/javier/Desarrollo/dh-especializacion-B1/parcial_1/catalog-service/src/main/java/com/dh/catalogservice/api/controller/CatalogController.java
+/home/javier/Desarrollo/dh-especializacion-B1/parcial_1/catalog-service/src/main/java/com/dh/catalogservice/AppConfig.java
+/home/javier/Desarrollo/dh-especializacion-B1/parcial_1/catalog-service/src/main/java/com/dh/catalogservice/domain/model/Movie.java
