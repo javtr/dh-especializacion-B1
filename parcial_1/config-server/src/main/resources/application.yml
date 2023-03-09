@@ -8,6 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/javtr/dh-especializacion-B1.git/parcial_1
+          uri: https://github.com/javtr/config-service-parcial-01
           default-label: main
-          search-paths: service-configuration
+
+
