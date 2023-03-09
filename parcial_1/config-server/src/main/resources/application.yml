@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/javtr/spring-cloud-example
-          default-label: master
-          search-paths: caja
+          uri: https://github.com/javtr/dh-especializacion-B1.git/parcial_1
+          default-label: main
+          search-paths: service-configuration
